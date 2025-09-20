@@ -13,6 +13,5 @@ Python 3.13
 
 #Instruction for use
 
-    copy https://github.com/valder72/task-1.git
-    cd task-1
-    pyhton 
+1.     python FidoCode.py
+
