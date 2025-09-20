@@ -11,7 +11,7 @@ if n <= 1:
     print("No elements found")
 else:
     element = int((2 * n)/ 3) - 1
-    print(f"Element located in position {n} for (2 * n)/ 3) - 1 is {element}")
+    print(f"Element located in position n = {n} is {element}")
 
 
 
